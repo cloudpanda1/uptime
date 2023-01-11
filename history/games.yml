@@ -1,7 +1,7 @@
 url: https://games.cloudpanda5.repl.co/
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2023-01-10T23:01:30.563Z
+status: down
+code: 429
+responseTime: 11441
+lastUpdated: 2023-01-11T18:21:08.447Z
 startTime: Mon Dec 05 2022 01:38:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
