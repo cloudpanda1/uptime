@@ -4,7 +4,7 @@
     "url": "https://games.cloudpanda5.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/games.cloudpanda5.repl.co.ico",
     "slug": "games",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
@@ -16,6 +16,7 @@
     "timeMonth": 1176,
     "timeYear": 1440,
     "dailyMinutesDown": {
+      "2023-02-25": 0,
       "2023-02-19": 28,
       "2023-02-13": 25,
       "2023-02-08": 35,
