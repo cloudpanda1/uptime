@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/games.cloudpanda5.repl.co.ico",
     "slug": "games",
     "status": "down",
-    "uptime": "86.88%",
+    "uptime": "86.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.73%",
+    "uptimeYear": "82.45%",
     "time": 733,
-    "timeDay": 459,
-    "timeWeek": 517,
-    "timeMonth": 486,
+    "timeDay": 390,
+    "timeWeek": 499,
+    "timeMonth": 489,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-04-02": 26,
+      "2024-04-03": 26,
+      "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
@@ -94,8 +95,7 @@
       "2023-05-24": 23,
       "2023-05-13": 28,
       "2023-05-10": 32,
-      "2023-04-07": 182,
-      "2023-04-04": 24
+      "2023-04-07": 182
     }
   }
 ]
